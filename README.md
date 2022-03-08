@@ -1,3 +1,3 @@
-Simple dscord personalized bto with times messages music support and much more
+Simple dscord bot with music support moderation and personal server utility 
 
 discord bot 
